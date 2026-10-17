@@ -1,40 +1,23 @@
-# 👋 Hi, I’m Dakshan R. (@DaksCoder23)
+# Hi, I'm Dakshan R
 
-## 🚀 About Me  
-- 🔥 Passionate **Software Developer** skilled in **Python, C, Java, ReactJS, and MongoDB**  
-- 💻 Experienced in **Full-Stack Development** with **ReactJS, Node.js, and MongoDB**  
-- 🎓 **B.E. in Computer Science and Engineering** from **Sri Venkateswaraa College of Technology**  
-- 🌍 **Blockchain Enthusiast** | Deputy Secretary of Blockchain Club  
-- 🎨 **Graphic Designer** for the CSE Association (CODEXON)  
+AI software engineer (intern) at **Humantic AI**, building production LLM features in Python for B2B sales teams. Final-year B.E. CSE student, graduating April 2027.
 
-## 👀 Interests  
-- 🚀 Web & Mobile App Development  
-- 🤖 AI & Machine Learning  
-- 🔗 Blockchain Technology  
-- 📸 Photography  
+## What I work on
 
-## 🌱 Currently Learning  
-- 📡 Web3 & Smart Contracts  
-- 🚀 Next.js & Advanced Frontend Architectures  
+- **LLM systems in production.** Retrieval-augmented generation over SEC filings and trusted news, a central LLM router behind 72 call sites, and model choices made by evaluation: five frontier models compared on 541 real briefs for cost, quality and hallucinations.
+- **Reliable backends.** Led Signals V2 (AI-curated account alerts for about 256 sales users) to production with idempotent retries, deduplication and source-quality filters, plus an HMAC-SHA256 signed webhook dispatcher customers integrate with.
+- **Optimisation over guesswork.** My final-year project, [MindMesh AI](https://github.com/DaksCoder23/mindmesh), forms student teams with a CP-SAT solver and uses an LLM only to read the teacher's rules and explain each team. Zero constraint violations across 60 solver runs; not one of 23 direct-LLM runs produced a valid partition.
 
-## 💞️ Looking to Collaborate On  
-- 🛠 **Open-Source Projects**  
-- 🌐 **Full-Stack Web Applications**  
-- 🧠 **AI-Based Innovations**  
-- 🏗 **Blockchain & Decentralized Apps**  
+## Stack
 
-## 📫 Reach Me At  
-- 💼 [LinkedIn](https://www.linkedin.com/in/dakshanr/)  
-- 📧 Email: dakshanr05@gmail.com  
-- 📱 Phone: +91 7603810630  
+Python, FastAPI, TypeScript, React, Node.js, C# / ASP.NET Core, MongoDB, MySQL, AWS (S3, SQS), Docker, OpenAI, Claude, Gemini, Groq, MCP, OR-Tools
 
-## 😄 Pronouns  
-- He/Him  
+## Also
 
-## ⚡ Fun Fact  
-- 🚀 I built an **AI-based cell phone detection system** and a **movie ticket booking app**!  
+- President, Blockchain Club
+- 1st place, National Science Day (AI cell phone detection with YOLOv3)
+- Oracle AI Vector Search Certified Professional
 
----
+## Reach me
 
-💻 **Let's build something amazing together!** 🚀
-
+[LinkedIn](https://www.linkedin.com/in/dakshanr/) · dakshanr05@gmail.com
